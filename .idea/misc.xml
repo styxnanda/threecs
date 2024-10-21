@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="AO3-SCP" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="AO3-SCP" project-jdk-type="Python SDK" />
+</project>
